@@ -1,4 +1,6 @@
-# CSharpEssentialTrainingPart1
+﻿# CSharpEssentialTrainingPart1
+
+#JUST TRIED BY ME
 
 Exercise files for LinkedIn Course C# Essential Training Part 1
 
